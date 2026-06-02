@@ -1,3 +1,6 @@
+<img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/b084f022-2d46-49a8-807c-5ee618d19a53" />
+
+
 # 🏁 BMW Motorsport Showroom - Galerie Interactive
 
 Ce dépôt contient le code source d'un site web interactif dédié à l'histoire et à l'évolution de la gamme BMW Motorsport. Ce projet personnel a été réalisé pour mettre en pratique des concepts avancés d'intégration web et de dynamisme côté client via JavaScript, dans le cadre de mon apprentissage en BUT Informatique.
